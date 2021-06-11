@@ -10,4 +10,4 @@ product = num_4 * num_6
 favorite_foods = ["Hashbrowns", "Pizza", "Pasta"]
 favorite_foods.shift
 
-movie.size
+puts movie.size
